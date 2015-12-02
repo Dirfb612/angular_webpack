@@ -1,0 +1,34 @@
+{
+  "name": "angular_webpack",
+  "version": "1.0.0",
+  "description": "learning angularjs with webpack and ES2015 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dirfb612/angular_webpack.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "webpack",
+    "babel6",
+    "babeljs",
+    "es6",
+    "ES6",
+    "ES2015",
+    "ES6"
+  ],
+  "author": "dirf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dirfb612/angular_webpack/issues"
+  },
+  "homepage": "https://github.com/Dirfb612/angular_webpack#readme",
+  "devDependencies": {
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
